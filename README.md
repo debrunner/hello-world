@@ -1,2 +1,2 @@
 # hello-world
-My test repository for github's functions.
+Our test repository for github's functions.
